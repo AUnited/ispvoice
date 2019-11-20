@@ -1,0 +1,2 @@
+<div class="allprices"><?php echo $lang->tr("All prices are")." "; if(sett::countvat===true) { echo $lang->tr("with")." ".sett::vat."% ".$lang->tr("VAT"); } else { echo $lang->tr("without")." ".$lang->tr("VAT"); } ?></div>
+<div class="copy">© <?php echo date("Y")." ".ucfirst($GLOBALS["server"]); ?></div>

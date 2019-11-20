@@ -1,0 +1,36 @@
+<?php
+$sitelang=Array(
+"UTF-8"=>"UTF-8", //your charset
+"en"=>"ru",
+"Menu"=>"Меню",
+"Choose domain"=>"Выбор домена",
+"Domain prices"=>"Стоимость доменов",
+"Hostings"=>"Хостинг-планы",
+"Webadmin"=>"Панель управления",
+"English"=>"Английский",
+"Russian"=>"Русский",
+"Slovak"=>"Словацкий",
+"title_"=>"Главная страница",
+"title_select"=>"Выбрать",
+"title_domain"=>"Домены",
+"title_domain_list"=>"Цены на домены",
+"title_plans"=>"Веб-Хостинги",
+"title_package_info"=>"Информация о тарифе",
+"title_userdata"=>"Данные",
+"title_summary"=>"Итоги",
+"title_info"=>"Заказать",
+"meta_"=>"intro,webhosting,hosting,server,webpage",
+"meta_select"=>"выбрать",
+"meta_domain"=>"домены",
+"meta_domain_list"=>"цены на домены",
+"meta_plans"=>"веб-хостинги",
+"meta_package_info"=>"информация о тарифе",
+"meta_userdata"=>"данные",
+"meta_summary"=>"итоги",
+"meta_info"=>"заказать",
+"All prices are"=>"Все цены в",
+"with"=>"с",
+"without"=>"без",
+"VAT"=>"НДС"
+);
+?>

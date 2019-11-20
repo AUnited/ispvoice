@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /class/
+Disallow: /config/
+Disallow: /doc/
+Disallow: /language/
+Disallow: /lib/
+Disallow: /module/
+Disallow: /plugins/
+Disallow: /sql/
+Disallow: /tpl/

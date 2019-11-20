@@ -1,0 +1,10 @@
+Options -Indexes
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+<Files ~ "^\.conf\.php$">
+deny from all
+</Files>
+<Files ~ "^\.log\.php$">
+deny from all
+</Files>

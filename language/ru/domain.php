@@ -1,0 +1,30 @@
+<?php
+$lang=Array(
+"Checking domain, please wait."=>"Проверка домена, пожалуйста подождите.",
+"Domain has been verified"=>"Домен был подтвержен",
+"New domain"=>"Новый домен",
+"Domain name"=>"Название домена",
+"Domains pricelist"=>"Стоимость доменов",
+"Check domain"=>"Проверить домен",
+"(exam.: www.domain.com)"=>"(напр.: www.moydomen.ru)",
+"Options"=>"Настройки",
+"Domain"=>"Домен",
+"Order"=>"Заказать",
+"Select"=>"Выбрать",
+"Continue without domain"=>"Продолжить без домена",
+"Domain checking success."=>"Проверка домена завершена успешно.",
+"is free"=>"свободен",
+"You can order it."=>"Вы можете заказать его.",
+"is occupied"=>"занят",
+"If you are the owner, you can move it to us."=>"Если Вы являетесь владельцем, Вы можете перевести его к нам.",
+"Domain name is blank!"=>"Поле названия домена пустое!",
+"The program isn't logged into the server API!"=>"Программа не загружена в API сервера",
+"We do not support this extension! Make sure you spelled correctly."=>"Неподдерживаемое расширение! Проверьте, что все введено правильно.",
+"You have the unsupported characters in domain name!"=>"Вы ввели неподдерживаемые знаки в название домена!",
+"You are not authorized to order the domain."=>"Вы не авторизированы для заказа домена.",
+"An error occurred when verifying domain!"=>"Ошибка при проверке домена!",
+"Order domain"=>"Заказать домен",
+"Extend the domain"=>"Опубликовать домен",
+"Check your domain"=>"Проверьте Ваш домен."
+);
+?>
